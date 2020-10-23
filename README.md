@@ -31,6 +31,13 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Jawwaad's GitHub Stats" src="https://github-readme-stats.javas01.vercel.app/api?username=Javas01&show_icons=true&hide_border=true" />
+
+</details>
+
 ---
 
 [website]: /
