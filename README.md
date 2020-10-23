@@ -32,3 +32,10 @@
 <br />
 
 ---
+
+[website]: /
+[course]: /
+[twitter]: https://twitter.com/jawwaad10
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/cash.me_out
+[linkedin]: https://linkedin.com/in/jawwaad-sabree
